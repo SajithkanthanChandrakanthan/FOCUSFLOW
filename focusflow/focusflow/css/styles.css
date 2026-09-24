@@ -1227,9 +1227,9 @@ button { touch-action: manipulation; }
 }
 
 .auth-panel--form {
-  --color-primary: var(--color-accent-purple);
-  --color-primary-hover: #5B21B6;
-  --color-primary-tint: #F1EAFE;
+  --color-primary: #2563EB;
+  --color-primary-hover: #1D4ED8;
+  --color-primary-tint: #EAF1FE;
   --color-surface: #FFFFFF;
   --color-ink: #111B3A;
   --color-ink-soft: #667085;
